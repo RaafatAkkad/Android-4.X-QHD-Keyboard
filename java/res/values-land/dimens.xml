@@ -21,7 +21,7 @@
 <resources>
     <!-- Preferable keyboard height in absolute scale: 1.100in -->
     <!-- This keyboardHeight value should match with keyboard-heights.xml -->
-    <dimen name="keyboardHeight">1.5in</dimen>
+    <dimen name="keyboardHeight">176.0dp</dimen>
     <fraction name="minKeyboardHeight">55%p</fraction>
     <!-- key_height + key_bottom_gap = popup_key_height -->
     <dimen name="popup_key_height">44.8dp</dimen>
